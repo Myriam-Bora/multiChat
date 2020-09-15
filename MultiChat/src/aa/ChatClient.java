@@ -56,7 +56,7 @@ class Chatt extends JFrame implements ActionListener, Runnable, WindowListener{
 	static JTextArea textArea = new JTextArea(); // 메인텍스트 에어리어
 	//JTextArea textArea_1 = new JTextArea(); // 참가 유저 목록
 	JTextField scrollPane_2 = new JTextField();
-	JLabel lblNewLabel = new JLabel("0");//입장인원 라벨
+	JLabel lblNewLabel = new JLabel("0");//입장인원 라벨 
 	JButton btnNewButton = new JButton("보내기");//보내기버튼
 	JButton button_1 = new JButton("\uBA54\uC778\uD654\uBA74");//메인화면 버튼
 	JButton btnNewButton_1 = new JButton("나가기");
