@@ -38,7 +38,7 @@ import javax.swing.border.EmptyBorder;
 //gui+send+rcv 클래스
 class Chatt extends JFrame implements ActionListener, Runnable, WindowListener{
 	
-	// 첫번째 메인
+	// 첫번째 메인 
 
 	private JPanel first_pan = new JPanel(new BorderLayout(5, 5));;
 	private JTextField txtMultiChat;
