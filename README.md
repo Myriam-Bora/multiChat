@@ -35,4 +35,4 @@
 
 	👩🏻‍🤝‍👩🏻 채팅화면
  
-![Chatting](MultiChat/preview/multiChat.png)
+![Chatting](MultiChat/preview/chatting2.png)
