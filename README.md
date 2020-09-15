@@ -30,9 +30,9 @@
 
 	✍ Main
  
-![MultiChatMain](multiChat/MultiChat/preview/multiChat.png)
+![Main](MultiChat/preview/multiChatMain.png)
 
 
 	👩🏻‍🤝‍👩🏻 채팅화면
  
-![MultiChat](multiChat/MultiChat/preview/multiChatMain.png)
+![Chatting](MultiChat/preview/multiChat.png)
